@@ -12,7 +12,7 @@ The goal of this signal is to have all SSP's correctly identify intrinsic in-gam
 
 **Definition**
 
-Ad space that modifies the environment of a game, such as a billboard or skin.
+Advertising space that modifies the environment of a game, such as a billboard or skin.
 
 **Request Changes**
 
